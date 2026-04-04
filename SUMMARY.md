@@ -2,6 +2,7 @@
 +   [设计模式包教不包会](docs/dsnptn-baojiao-bubaohui/README.md)
 +   [谷歌开源项目风格指南](docs/ggl-opsrc-proj-style/README.md)
 +   [游戏编程模式](docs/gm-prog-ptn/README.md)
++   [HighScalability 中文示例](docs/hisclex/README.md)
 +   [大型網站架構學習筆記](docs/lg-wbst-arch/README.md)
 +   [微服务架构文集](docs/msvc-arch-ser/README.md)
 +   [RePractise 中文版](docs/reprac/README.md)
